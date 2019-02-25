@@ -45,7 +45,7 @@ router.post('/add', (req, res, next) => {
   book.create(newBook, (err, book) => {
     if(err) {
         console.log(err);
-        res.end(err);
+        res.end(err);1
     }
     else {
         // refresh the book list
