@@ -1,3 +1,10 @@
+/*
+File Name: routers/books.js
+Authors: Chandni Patel
+Student id: 300990555
+WebApp name: My Favourite Books
+*/
+
 // modules required for routing
 let express = require('express');
 let router = express.Router();

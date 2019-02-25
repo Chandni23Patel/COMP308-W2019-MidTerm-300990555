@@ -1,3 +1,10 @@
+/*
+File Name: books.js
+Authors: Tom siliopoulos
+Student id: - 
+WebApp name: My Favourite Books
+*/
+
 let mongoose = require('mongoose');
 
 // create a model class
